@@ -1,0 +1,56 @@
+
+.sectionNav {
+    background-color: #1d1d1d;
+    padding-top: 10px;
+    padding-bottom: 2rem;
+}
+
+.boxDiv {
+    margin-left: 10vh;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 26px;
+
+}
+.title:hover {
+    color: #fffefed8;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+input {
+    display: flex;
+    width: 20%;
+    margin-bottom: 3px;
+    border-radius: 6px;
+    border-color: white;
+    font-size: 23px;
+
+}
+
+textarea {
+    display: inline;
+    margin-bottom: 1px;
+    margin-left: auto;
+    width: 20%;
+    border-radius: 6px;
+    font-size: 23px;
+    border-color: white;
+}
+
+button {
+    display: flex;
+    background-color: #ffffff;
+    border: none;
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 24px;
+    width: auto;
+}
+
+button:hover {
+    cursor: pointer;
+
+}
